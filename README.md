@@ -1,0 +1,1 @@
+<div spellcheck="false" autocorrect="off" autocapitalize="off" writingsuggestions="false" translate="no" contenteditable="true" style="tab-size: 2;" class="cm-content" role="textbox" aria-multiline="true" aria-labelledby="codemirror-label focus-trap-help-panel" aria-placeholder="Enter file contents here" data-language="markdown" aria-autocomplete="list">…</div>
